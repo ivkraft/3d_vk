@@ -112,5 +112,3 @@ void FirstApp::drawFrame() {
 
 }  // namespace lve
 
-/*  "/Users/wizz/stuff/xcodec/vulkan/vulkan_app1/vulkan_app1/shaders/simple_shader.vert.spv",
-        "/Users/wizz/stuff/xcodec/vulkan/vulkan_app1/vulkan_app1/shaders/simple_shader.frag.spv", */
